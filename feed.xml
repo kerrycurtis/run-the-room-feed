@@ -9,27 +9,13 @@ AI Generated</description>
   <language>en</language>
     <itunes:author>Professional Development Inc</itunes:author>
     <itunes:category text="Business" />
-    <itunes:image href="https://kerrycurtis.github.io/run-the-room-feed/cover.png" />
     <itunes:owner>
       <itunes:name>Professional Development Inc</itunes:name>
-      <itunes:email>kerry.f.curtis@gmail.com</itunes:email>
+      <itunes:email>runtheroom@outlook.com</itunes:email>
     </itunes:owner>
   <itunes:explicit>false</itunes:explicit>
   <atom:link href="https://kerrycurtis.github.io/run-the-room-feed/feed.xml" rel="self" type="application/rss+xml"/>
-  <image>
-    <url>https://muse.ai/podcasts/media/1337692426099284/46958af6-3f81-48da-90a8-95c133c7c40f/cover.png</url>
-    <title>Run the Room</title>
-    <link>https://muse.ai/podcasts/feed/1337692426099284/46958af6-3f81-48da-90a8-95c133c7c40f</link>
-  </image>
-  <item>
-    <title>Run the Room — Trailer</title>
-    <description>Most meetings are a waste of time — not because meetings are broken, but because nobody ever learned how to run one. Run the Room takes one meeting type each week through three parts: planning, running, and follow-up. New episodes every Sunday at 7:00 PM ET. First up: the IEP meeting.
-
-AI Generated</description>
-    <enclosure url="https://muse.ai/podcasts/media/1337692426099284/46958af6-3f81-48da-90a8-95c133c7c40f/ep-e76bffcf-8257-4a4a-a6f1-37d7d3fa2863.mp3" length="384805" type="audio/mpeg"/>
-    <guid isPermaLink="false">ep-e76bffcf-8257-4a4a-a6f1-37d7d3fa2863</guid>
-    <pubDate>Mon, 19 Oct 2026 19:19:13 +0000</pubDate>
-    <itunes:duration>48</itunes:duration>
-  </item>
+  <itunes:image href="https://education-across-the-states.github.io/run-the-room-feed/cover.png"/>
+  <itunes:new-feed-url>https://education-across-the-states.github.io/run-the-room-feed/feed.xml</itunes:new-feed-url>
 </channel>
 </rss>
