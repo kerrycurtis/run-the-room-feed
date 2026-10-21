@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Run the Room</title>
+  <description>One meeting type each week, in three parts: planning, running, and follow-up. Across every industry — IEP meetings, school boards, interviews, sales presentations, town halls, and more. New episodes every Sunday.
+
+AI Generated</description>
+  <language>en</language>
+    <itunes:author>Professional Development Inc</itunes:author>
+    <itunes:category text="Business" />
+    <itunes:owner>
+      <itunes:name>Professional Development Inc</itunes:name>
+      <itunes:email>runtheroom@outlook.com</itunes:email>
+    </itunes:owner>
+  <itunes:explicit>false</itunes:explicit>
+  <atom:link href="https://kerrycurtis.github.io/run-the-room-feed/feed.xml" rel="self" type="application/rss+xml"/>
+  <itunes:image href="https://education-across-the-states.github.io/run-the-room-feed/cover.png"/>
+  <itunes:new-feed-url>https://education-across-the-states.github.io/run-the-room-feed/feed.xml</itunes:new-feed-url>
+</channel>
+</rss>
